@@ -115,7 +115,7 @@ Sitio para **seis apartamentos frente a la playa El Amatal**, en La Libertad, El
 
 ### 🤝 ¿Construimos algo juntos?
 
-<a href="mailto:flcruz0310@gmail.com"><img src="https://img.shields.io/badge/Correo-flcruz0310%40gmail.com-1e293b?style=for-the-badge&logo=gmail&logoColor=f4a28c" alt="Correo" /></a>
+<a href="mailto:isaacfl.dev@outlook.com"><img src="https://img.shields.io/badge/Correo-isaacfl.dev%40outlook.com-1e293b?style=for-the-badge&logo=microsoftoutlook&logoColor=f4a28c" alt="Correo" /></a>
 <a href="https://wa.me/50379475032"><img src="https://img.shields.io/badge/WhatsApp-Escr%C3%ADbeme-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
 
 <br /><br />
