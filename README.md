@@ -22,7 +22,7 @@ Me importa cada detalle: **jerarquía clara**, **HTML semántico**, **CSS escala
 - 💬 ¿Tienes una idea? **Hablemos** 👇
 
 </td>
-<td width="38%" align="center" valign="top">
+<td width="38%" align="center" valign="middle">
 
 <img src="./dev.webp" width="250" alt="Frontend dev" />
 
