@@ -1,19 +1,19 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1280" height="430" viewBox="0 0 1280 430" role="img" aria-label="Isaac Flores — Frontend Developer. Ventana de código que escribe: build() devuelve una interfaz; ¡Interfaz lista!">
-<style>@keyframes l0{0%,3.33%{width:0}11.33%,92%{width:368px}97%,100%{width:0}}
+<style>@keyframes l0{0%,3.33%{transform:translateX(0)}11.33%,92%{transform:translateX(368px)}97%,100%{transform:translateX(0)}}
 .l0{animation:l0 12s steps(30,end) infinite}
-@keyframes l1{0%,12.33%{width:0}17.13%,92%{width:223px}97%,100%{width:0}}
+@keyframes l1{0%,12.33%{transform:translateX(0)}17.13%,92%{transform:translateX(223px)}97%,100%{transform:translateX(0)}}
 .l1{animation:l1 12s steps(18,end) infinite}
-@keyframes l2{0%,18.13%{width:0}25.33%,92%{width:332px}97%,100%{width:0}}
+@keyframes l2{0%,18.13%{transform:translateX(0)}25.33%,92%{transform:translateX(332px)}97%,100%{transform:translateX(0)}}
 .l2{animation:l2 12s steps(27,end) infinite}
-@keyframes l3{0%,26.33%{width:0}28.42%,92%{width:19px}97%,100%{width:0}}
+@keyframes l3{0%,26.33%{transform:translateX(0)}28.42%,92%{transform:translateX(19px)}97%,100%{transform:translateX(0)}}
 .l3{animation:l3 12s steps(1,end) infinite}
-@keyframes l4{0%,29.42%{width:0}36.08%,92%{width:307px}97%,100%{width:0}}
+@keyframes l4{0%,29.42%{transform:translateX(0)}36.08%,92%{transform:translateX(307px)}97%,100%{transform:translateX(0)}}
 .l4{animation:l4 12s steps(25,end) infinite}
-@keyframes l5{0%,37.08%{width:0}44.55%,92%{width:344px}97%,100%{width:0}}
+@keyframes l5{0%,37.08%{transform:translateX(0)}44.55%,92%{transform:translateX(344px)}97%,100%{transform:translateX(0)}}
 .l5{animation:l5 12s steps(28,end) infinite}
-@keyframes l6{0%,45.55%{width:0}47.63%,92%{width:19px}97%,100%{width:0}}
+@keyframes l6{0%,45.55%{transform:translateX(0)}47.63%,92%{transform:translateX(19px)}97%,100%{transform:translateX(0)}}
 .l6{animation:l6 12s steps(1,end) infinite}
-@keyframes l7{0%,48.63%{width:0}56.90%,92%{width:380px}97%,100%{width:0}}
+@keyframes l7{0%,48.63%{transform:translateX(0)}56.90%,92%{transform:translateX(380px)}97%,100%{transform:translateX(0)}}
 .l7{animation:l7 12s steps(31,end) infinite}
 @keyframes caret{0%,56.23%{opacity:0}57.90%,92%{opacity:1}93%,100%{opacity:0}}
 .caret{animation:caret 12s linear infinite}.blink{animation:blink 1s steps(1) infinite}@keyframes blink{50%{opacity:0}}
@@ -24,14 +24,14 @@
 @keyframes rin3{0%,63.73%{opacity:0;transform:translateY(14px)}69.57%,92%{opacity:1;transform:translateY(0)}97%,100%{opacity:0}}
 .rin3{animation:rin3 12s cubic-bezier(.2,.7,.2,1) infinite}
 @keyframes glow{0%,100%{opacity:.55}50%{opacity:.9}}.glow{animation:glow 5s ease-in-out infinite}
-@media (prefers-reduced-motion:reduce){[class]{animation:none!important}[class^=l]{width:900px}}
+@media (prefers-reduced-motion:reduce){[class]{animation:none!important}[class^=l]{transform:translateX(900px)}}
 </style>
 <defs>
 <radialGradient id="bg" cx="30%" cy="30%" r="90%"><stop offset="0" stop-color="#1a1b20"/><stop offset="1" stop-color="#0d0d10"/></radialGradient>
 <radialGradient id="orb" cx="50%" cy="50%" r="50%"><stop offset="0" stop-color="#ff7a1a" stop-opacity=".22"/><stop offset="1" stop-color="#ff7a1a" stop-opacity="0"/></radialGradient>
-<filter id="sh" x="-20%" y="-20%" width="140%" height="160%"><feDropShadow dx="0" dy="18" stdDeviation="22" flood-color="#000" flood-opacity=".55"/></filter>
+<filter id="sh" color-interpolation-filters="sRGB" x="-20%" y="-20%" width="140%" height="160%"><feDropShadow dx="0" dy="18" stdDeviation="22" flood-color="#000" flood-opacity=".55"/></filter>
 <clipPath id="r"><rect width="1280" height="430" rx="18"/></clipPath>
-<clipPath id="c0"><rect class="l0" x="100" y="104" height="31" width="368"/></clipPath><clipPath id="c1"><rect class="l1" x="100" y="135" height="31" width="223"/></clipPath><clipPath id="c2"><rect class="l2" x="148.16" y="166" height="31" width="332"/></clipPath><clipPath id="c3"><rect class="l3" x="100" y="197" height="31" width="19"/></clipPath><clipPath id="c4"><rect class="l4" x="100" y="228" height="31" width="307"/></clipPath><clipPath id="c5"><rect class="l5" x="148.16" y="259" height="31" width="344"/></clipPath><clipPath id="c6"><rect class="l6" x="100" y="290" height="31" width="19"/></clipPath><clipPath id="c7"><rect class="l7" x="100" y="321" height="31" width="380"/></clipPath>
+<clipPath id="code"><rect x="71" y="91" width="638" height="292"/></clipPath>
 </defs>
 <g clip-path="url(#r)">
 <rect width="1280" height="430" fill="url(#bg)"/>
@@ -46,7 +46,8 @@
   <text x="390" y="73" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" fill="#6b6e77">isaac.js</text>
 </g>
 <g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="20" xml:space="preserve" style="white-space:pre">
-<text x="102" y="124" clip-path="url(#c0)"><tspan fill="#ff7a1a">import</tspan><tspan fill="#e8e8ea"> { idea } </tspan><tspan fill="#ff7a1a">from</tspan><tspan fill="#5ee05e"> './mente'</tspan></text><text x="80" y="124" fill="#3d4049" font-size="14" text-anchor="end">1</text><text x="102" y="155" clip-path="url(#c1)"><tspan fill="#ff7a1a">function</tspan><tspan fill="#e8e8ea"> </tspan><tspan fill="#ffa65c">build</tspan><tspan fill="#e8e8ea">() {</tspan></text><text x="80" y="155" fill="#3d4049" font-size="14" text-anchor="end">2</text><text x="150.16" y="186" clip-path="url(#c2)"><tspan fill="#ff7a1a">return</tspan><tspan fill="#e8e8ea"> idea.</tspan><tspan fill="#ffa65c">toInterface</tspan><tspan fill="#e8e8ea">()</tspan></text><text x="80" y="186" fill="#3d4049" font-size="14" text-anchor="end">3</text><text x="102" y="217" clip-path="url(#c3)"><tspan fill="#e8e8ea">}</tspan></text><text x="80" y="217" fill="#3d4049" font-size="14" text-anchor="end">4</text><text x="102" y="248" clip-path="url(#c4)"><tspan fill="#ff7a1a">while</tspan><tspan fill="#e8e8ea"> (!(ui = </tspan><tspan fill="#ffa65c">build</tspan><tspan fill="#e8e8ea">())) {</tspan></text><text x="80" y="248" fill="#3d4049" font-size="14" text-anchor="end">5</text><text x="150.16" y="279" clip-path="url(#c5)"><tspan fill="#e8e8ea">console.</tspan><tspan fill="#ffa65c">log</tspan><tspan fill="#e8e8ea">(</tspan><tspan fill="#5ee05e">"Iterando..."</tspan><tspan fill="#e8e8ea">)</tspan></text><text x="80" y="279" fill="#3d4049" font-size="14" text-anchor="end">6</text><text x="102" y="310" clip-path="url(#c6)"><tspan fill="#e8e8ea">}</tspan></text><text x="80" y="310" fill="#3d4049" font-size="14" text-anchor="end">7</text><text x="102" y="341" clip-path="url(#c7)"><tspan fill="#e8e8ea">console.</tspan><tspan fill="#ffa65c">log</tspan><tspan fill="#e8e8ea">(</tspan><tspan fill="#5ee05e">"¡Interfaz lista!"</tspan><tspan fill="#e8e8ea">)</tspan></text><text x="80" y="341" fill="#3d4049" font-size="14" text-anchor="end">8</text>
+<text x="102" y="124"><tspan fill="#ff7a1a">import</tspan><tspan fill="#e8e8ea"> { idea } </tspan><tspan fill="#ff7a1a">from</tspan><tspan fill="#5ee05e"> './mente'</tspan></text><text x="80" y="124" fill="#3d4049" font-size="14" text-anchor="end">1</text><text x="102" y="155"><tspan fill="#ff7a1a">function</tspan><tspan fill="#e8e8ea"> </tspan><tspan fill="#ffa65c">build</tspan><tspan fill="#e8e8ea">() {</tspan></text><text x="80" y="155" fill="#3d4049" font-size="14" text-anchor="end">2</text><text x="150.16" y="186"><tspan fill="#ff7a1a">return</tspan><tspan fill="#e8e8ea"> idea.</tspan><tspan fill="#ffa65c">toInterface</tspan><tspan fill="#e8e8ea">()</tspan></text><text x="80" y="186" fill="#3d4049" font-size="14" text-anchor="end">3</text><text x="102" y="217"><tspan fill="#e8e8ea">}</tspan></text><text x="80" y="217" fill="#3d4049" font-size="14" text-anchor="end">4</text><text x="102" y="248"><tspan fill="#ff7a1a">while</tspan><tspan fill="#e8e8ea"> (!(ui = </tspan><tspan fill="#ffa65c">build</tspan><tspan fill="#e8e8ea">())) {</tspan></text><text x="80" y="248" fill="#3d4049" font-size="14" text-anchor="end">5</text><text x="150.16" y="279"><tspan fill="#e8e8ea">console.</tspan><tspan fill="#ffa65c">log</tspan><tspan fill="#e8e8ea">(</tspan><tspan fill="#5ee05e">"Iterando..."</tspan><tspan fill="#e8e8ea">)</tspan></text><text x="80" y="279" fill="#3d4049" font-size="14" text-anchor="end">6</text><text x="102" y="310"><tspan fill="#e8e8ea">}</tspan></text><text x="80" y="310" fill="#3d4049" font-size="14" text-anchor="end">7</text><text x="102" y="341"><tspan fill="#e8e8ea">console.</tspan><tspan fill="#ffa65c">log</tspan><tspan fill="#e8e8ea">(</tspan><tspan fill="#5ee05e">"¡Interfaz lista!"</tspan><tspan fill="#e8e8ea">)</tspan></text><text x="80" y="341" fill="#3d4049" font-size="14" text-anchor="end">8</text>
+<g clip-path="url(#code)"><rect class="l0" x="100" y="102" width="372" height="31" fill="#141418"/><rect class="l1" x="100" y="133" width="227" height="31" fill="#141418"/><rect class="l2" x="148.16" y="164" width="336" height="31" fill="#141418"/><rect class="l3" x="100" y="195" width="23" height="31" fill="#141418"/><rect class="l4" x="100" y="226" width="311" height="31" fill="#141418"/><rect class="l5" x="148.16" y="257" width="348" height="31" fill="#141418"/><rect class="l6" x="100" y="288" width="23" height="31" fill="#141418"/><rect class="l7" x="100" y="319" width="384" height="31" fill="#141418"/></g>
 <g class="caret"><rect class="blink" x="479.24" y="325" width="10" height="22" fill="#ff7a1a"/></g>
 </g>
 
