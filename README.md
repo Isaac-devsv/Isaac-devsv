@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1e293b,55:6b5b7b,100:f4a28c&text=Isaac%20Flores&fontColor=ffffff&fontSize=56&fontAlignY=38&desc=Frontend%20dev%20%C2%B7%20San%20Salvador,%20El%20Salvador&descAlignY=58&descSize=17&animation=fadeIn" width="100%" alt="Isaac Flores — Frontend dev" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1e293b,55:6b5b7b,100:f4a28c&text=Isaac%20Flores&fontColor=ffffff&fontSize=56&fontAlignY=38&desc=Frontend%20dev%20%C2%B7%20San%20Salvador,%20El%20Salvador&descAlignY=58&descSize=17" width="100%" alt="Isaac Flores — Frontend dev" />
 
 <a href="https://github.com/flcruz0310-netizen">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3200&pause=900&color=F4A28C&center=true&vCenter=true&width=560&lines=De+una+idea+a+una+interfaz.;Interfaces+modernas%2C+r%C3%A1pidas+y+responsivas.;C%C3%B3digo+limpio.+Movimiento+con+prop%C3%B3sito." alt="De una idea a una interfaz" />
