@@ -1,10 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1e293b,55:6b5b7b,100:f4a28c&text=Isaac%20Flores&fontColor=ffffff&fontSize=56&fontAlignY=38&desc=Frontend%20dev%20%C2%B7%20San%20Salvador,%20El%20Salvador&descAlignY=58&descSize=17" width="100%" alt="Isaac Flores — Frontend dev" />
-
-<a href="https://github.com/flcruz0310-netizen">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3200&pause=900&color=F4A28C&center=true&vCenter=true&width=560&lines=De+una+idea+a+una+interfaz.;Interfaces+modernas%2C+r%C3%A1pidas+y+responsivas.;C%C3%B3digo+limpio.+Movimiento+con+prop%C3%B3sito." alt="De una idea a una interfaz" />
-</a>
+<img src="./header.svg" width="100%" alt="Isaac Flores — Frontend dev · San Salvador" />
 
 </div>
 
@@ -16,7 +12,7 @@
 
 ### 👋 Hola, soy Isaac
 
-Desarrollador **frontend** y estudiante de ingeniería en **El Salvador**. Diseño y construyo interfaces **modernas, rápidas y responsivas**, convirtiendo ideas y diseños en experiencias digitales enfocadas en el usuario.
+Desarrollador **frontend** y estudiante de **ingeniería logística** en **El Salvador**. Diseño y construyo interfaces **modernas, rápidas y responsivas**, convirtiendo ideas y diseños en experiencias digitales enfocadas en el usuario.
 
 Me importa cada detalle: **jerarquía clara**, **HTML semántico**, **CSS escalable**, **JavaScript modular** y animaciones que guían la atención sin sacrificar rendimiento.
 
@@ -28,7 +24,7 @@ Me importa cada detalle: **jerarquía clara**, **HTML semántico**, **CSS escala
 </td>
 <td width="38%" align="center" valign="top">
 
-<img src="./isaac.webp" width="240" alt="Isaac Flores" />
+<img src="./dev.webp" width="250" alt="Frontend dev" />
 
 </td>
 </tr>
@@ -99,7 +95,7 @@ Sitio para **seis apartamentos frente a la playa El Amatal**, en La Libertad, El
 |:-:|---|:-:|
 | 💻 | **Desarrollador Front-end web** — [Kodigo Academy](https://info.kodigo.org/pensum-web-frontend-2026)<br><sub>HTML · CSS · JavaScript · Bootstrap · Git/GitHub · React (componentes, hooks, Context API, APIs)</sub> | 🟡 En proceso |
 | 🏅 | **Scrum Developer Professional Certification (SDPC™)** — [Certiprof](https://certiprof.com/es/collections/public/products/scrum-developer-professional-certification-sdpc)<br><sub>Sprints, backlogs, trabajo en progreso y entrega continua de valor</sub> | 🟡 En proceso |
-| 🛠️ | **Ingeniería** — Universidad Dr. José Matías Delgado | 🟡 En curso |
+| 🛠️ | **Ingeniería Logística** — Universidad Dr. José Matías Delgado | 🟡 En curso |
 
 ---
 
@@ -126,6 +122,5 @@ Sitio para **seis apartamentos frente a la playa El Amatal**, en La Libertad, El
 
 <img src="https://komarev.com/ghpvc/?username=flcruz0310-netizen&label=Visitas&color=f4a28c&style=flat-square" alt="Visitas al perfil" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:f4a28c,45:6b5b7b,100:1e293b" width="100%" alt="" />
 
 </div>
